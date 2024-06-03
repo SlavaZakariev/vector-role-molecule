@@ -1,5 +1,4 @@
 ## Role Name
----
 
 Download and install vector
 
