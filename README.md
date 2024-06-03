@@ -1,6 +1,4 @@
-## Role Name
-
-Download and install vector
+## Download and install vector
 
 Role Variables
 --------------
