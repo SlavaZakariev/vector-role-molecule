@@ -1,5 +1,5 @@
-Role Name
-=========
+## Role Name
+---
 
 Download and install vector
 
@@ -10,7 +10,7 @@ Role Variables
 |----------------|--------|------------------------|
 | vector_version | string | vector package version |
 
-Example Playbook
+Netology Homework Playbook
 ----------------
 
 License
@@ -21,4 +21,4 @@ MIT
 Author Information
 ------------------
 
-Gorbachev
+Zakariev
