@@ -10,7 +10,7 @@ platforms:
   #   command: /lib/systemd/systemd
   #   privileged: true
   #   pre_build_image: false
-
+  
   - name: c8
     image: centos/centos:stream8
     command: /sbin/init
